@@ -41,21 +41,21 @@ module.exports = {
 
     // nav
     nav: [
-      { text: '文档', link: '/guide/' }
+      { text: 'css-guide', link: '/css-guide/' }
     ],
 
     // sidebar
-    sidebar: { '/guide/': [
+    sidebar: { '/css-guide/': [
         {
-          text: '指南',
+          text: 'css指南',
           children: [
             {
-              text: '组件',
-              link: '/guide/card'
+              text: 'css技巧',
+              link: '/css-guide/card'
             },
             {
               text: '第三方',
-              link: '/guide/other'
+              link: '/css-guide/other'
             }
           ]
         }

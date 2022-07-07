@@ -2,10 +2,10 @@
 home: true
 heroImage: /logo.svg
 actionText: Get Started
-actionLink: /guide/
+actionLink: /css-guide/
 
 altActionText: Learn More
-altActionLink: /guide/
+altActionLink: /css-guide/
 
 features:
   - title: 💡 Instant Server Start
